@@ -1,0 +1,23 @@
+# general
+seed: 42
+workers: 8
+dataset_dir: "./datasets"
+
+# train options
+batch_size: 128
+image_size: 224
+start_epoch: 1000
+epochs: 1000
+dataset: "CIFAR-10" # CIFAR-10 / CIFAR-100 / STL-10 / ImageNet-10 / ImageNet-dogs / tiny-ImageNet
+
+# model options
+resnet: "ResNet34" # ResNet18 / ResNet34 / ResNet50
+feature_dim: 128
+model_path: "save/CIFAR-10"
+reload: False
+
+# loss options
+learning_rate: 0.0003
+weight_decay: 0.
+instance_temperature: 0.5
+cluster_temperature: 1.0
