@@ -17,7 +17,7 @@ This is the official code for the paper "Contrastive Clustering" (AAAI 2021)
 
 ## Configuration
 
-There is a configuration file in "config/config.yaml", where one can edit the both training and test options.
+There is a configuration file in "config/config.yaml", where one can edit both the training and test options.
 
 ## Training
 
