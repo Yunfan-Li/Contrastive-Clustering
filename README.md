@@ -1,6 +1,9 @@
 # Contrastive Clustering
 
 This is the official code for the paper "Contrastive Clustering" (AAAI 2021)
+<div align=center><img src="Figures/Figure1.png" width = "30%"/></div>
+
+<div align=center><img src="Figures/Figure2.png" width = "70%"/></div>
 
 # Dependency
 
