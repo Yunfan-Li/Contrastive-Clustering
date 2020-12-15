@@ -20,7 +20,7 @@ This is the code for the paper "Contrastive Clustering" (AAAI 2021)
 
 ## Configuration
 
-There is a configuration file in "config/config.yaml", where one can edit both the training and test options.
+There is a configuration file "config/config.yaml", where one can edit both the training and test options.
 
 ## Training
 
@@ -28,7 +28,7 @@ After setting the configuration, to start training, simply run
 
 > python train.py
 
-Since the traning strategy for STL-10 is slightly different from others (unlabeled data is used on ICH only while training and test split are used both on ICH and CCH), to start training on STL-10, run
+Since the traning strategy for STL-10 is slightly different from others (unlabeled data is used on ICH only while training and test split are used on both ICH and CCH), to start training on STL-10, run
 
 > python train_STL10.py
 
