@@ -8,7 +8,7 @@ This is the code for the paper "Contrastive Clustering" (AAAI 2021)
 # Dependency
 
 - python>=3.7
-- python>=1.6.0
+- pytorch>=1.6.0
 - torchvision>=0.8.1
 - munkres>=1.1.4
 - numpy>=1.19.2
