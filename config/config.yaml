@@ -6,7 +6,7 @@ dataset_dir: "./datasets"
 # train options
 batch_size: 128
 image_size: 224
-start_epoch: 1000
+start_epoch: 0
 epochs: 1000
 dataset: "CIFAR-10" # CIFAR-10 / CIFAR-100 / STL-10 / ImageNet-10 / ImageNet-dogs / tiny-ImageNet
 
