@@ -4,7 +4,7 @@ workers: 8
 dataset_dir: "./datasets"
 
 # train options
-batch_size: 128
+batch_size: 256
 image_size: 224
 start_epoch: 0
 epochs: 1000
