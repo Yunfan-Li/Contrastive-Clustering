@@ -15,6 +15,7 @@ This is the code for the paper "Contrastive Clustering" (AAAI 2021)
 - opencv-python>=4.4.0.46
 - pyyaml>=5.3.1
 - scikit-learn>=0.23.2
+- cudatoolkit>=11.0
 
 # Usage
 
