@@ -49,10 +49,13 @@ CIFAR-10, CIFAR-100, STL-10 will be automatically downloaded by Pytorch. Tiny-Im
 
 If you find CC useful in your research, please consider citing:
 ```
-@article{li2020contrastive,
-  title={Contrastive Clustering},
+@inproceedings{li2021contrastive,
+  title={Contrastive clustering},
   author={Li, Yunfan and Hu, Peng and Liu, Zitao and Peng, Dezhong and Zhou, Joey Tianyi and Peng, Xi},
-  journal={arXiv preprint arXiv:2009.09687},
-  year={2020}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={10},
+  pages={8547--8555},
+  year={2021}
 }
 ```
