@@ -1,13 +1,13 @@
+# News
+
+An extension of this work has been released on https://github.com/Yunfan-Li/Twin-Contrastive-Learning. It significantly improves the clustering performance and supports multi-gpu training.
+
 # Contrastive Clustering (CC)
 
 This is the code for the paper "Contrastive Clustering" (AAAI 2021)
 <div align=center><img src="Figures/Figure1.png" width = "30%"/></div>
 
 <div align=center><img src="Figures/Figure2.png" width = "70%"/></div>
-
-#News
-
-An extension of this work has been released on https://github.com/Yunfan-Li/Twin-Contrastive-Learning. It significantly improves the clustering performance and supports multi-gpu training.
 
 # Dependency
 
